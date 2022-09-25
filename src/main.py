@@ -12,7 +12,7 @@ class Client(discord.Client):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
 
-    # Events
+    # Ивенты
 
     async def on_connect(self) -> None:
         '''Функция действия при реагировании на подключении бота к дискорду'''
