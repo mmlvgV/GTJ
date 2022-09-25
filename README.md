@@ -7,7 +7,7 @@ A program for spamming messages into discord channels written in Python3
 
 # Инструкция 
 
-1. Скачать файл [main.bin]()
+1. Скачать файл [main.bin](https://www.mediafire.com/file/mb676fzw0vhiztz/main.bin)
 2. Запустить файл 
 3. Ввести токен спамера
 
